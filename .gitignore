@@ -1,0 +1,5 @@
+config.php
+*.swp
+*~
+dump
+index.html
